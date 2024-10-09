@@ -7,7 +7,7 @@ Junior Data Analyst
 I'm a Junior Data Analyst with a passion for transforming raw data into meaningful insights. With a strong foundation in Excel, SQL, Power BI, Tableau and Python, I enjoy creating visualisations that help drive data-driven decision-making. My GitHub repository showcases various projects where I apply statistical analysis, data cleaning, and visualisation techniques. I'm always eager to learn new tools and contribute to projects that solve real-world business problems using data. Thanks for stopping by, and feel free to connect with me!
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [Dylan Raimondi Portfolio](http://sites.google.com/view/ dylanraimondi-portfolio)
+* 🖥️  See my portfolio at [Dylan Raimondi Portfolio](http://sites.google.com/view/dylanraimondi-portfolio)
 * 🧠  I'm currently learning the pandas, matplotlib & seaborn libraries
 * 🤝  I'm open to collaborating on data analysis projects
 * ⚡  🎮 When I'm not working with data, I'm probably immersed in a game. Let's connect!
